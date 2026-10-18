@@ -1,0 +1,23 @@
+[functions.ai-chat]
+verify_jwt = true
+
+[functions.generate-image]
+verify_jwt = true
+
+[functions.edit-image]
+verify_jwt = true
+
+[functions.generate-video]
+verify_jwt = true
+
+[functions.video-status]
+verify_jwt = true
+
+[functions.selfie-detect]
+verify_jwt = true
+
+[functions.selfie-generate]
+verify_jwt = true
+
+[functions.selfie-sessions]
+verify_jwt = true
